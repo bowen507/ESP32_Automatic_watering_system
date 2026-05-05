@@ -1,0 +1,2 @@
+# ESP32_Automatic_watering_system
+基于ESP32的练手项目，解决假期宿舍盆栽无人值守问题
