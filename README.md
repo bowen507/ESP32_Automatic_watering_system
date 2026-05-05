@@ -56,8 +56,8 @@ OTA 功能目前**无法正常使用**。
 使用 PlatformIO 开发和烧录。
 
 ```bash
-git clone https://github.com/你的用户名/ESP32-WATER.git
-cd ESP32-WATER
+git clone https://github.com/bowen507/ESP32_Automatic_watering_system.git
+cd ESP32_Automatic_watering_system
 
 pip install platformio
 pio run                    # 编译
@@ -69,8 +69,8 @@ pio run --target upload    # 烧录
 ### 第一步：克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/ESP32-WATER.git
-cd ESP32-WATER
+git clone https://github.com/bowen507/ESP32_Automatic_watering_system.git
+cd ESP32_Automatic_watering_system
 ```
 
 ### 第二步：创建配置文件
